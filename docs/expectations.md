@@ -22,9 +22,9 @@ The individual work is directed at supporting everyone’s ability to effectivel
 
 * Memo Sketch Work (15%): Before the first group memo, you’ll submit three short pieces (i.e., 750 words max) demonstrating your independent thinking and work
 
- - Policy Selection, 9/1: TBA
- - Policy Stakeholders, 9/8: TBA
- - Policy Problems, 9/15: TBA
+       - Policy Selection, 9/1: TBA
+       - Policy Stakeholders, 9/8: TBA
+       - Policy Problems, 9/15: TBA
 
 ### Team Assignments (50%):
 
@@ -48,6 +48,5 @@ The individual work is directed at supporting everyone’s ability to effectivel
      - submitted - 11/17
 
  * Final Report, 20%: (revised and integrated memos 1, 2, 3; recommendations for increasing equity, for improving ability to evaluate for equity)
-
        - round robin - 12/6
        - presentation and submission - 12/17
