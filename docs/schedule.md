@@ -11,13 +11,14 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 ### 8/30 What is Equity? Policy Frameworks: Rational Process
 
+* Executive Order 13985 [Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
 * William Blanchard. 1986. “Evaluating Social Equity: What Does Fairness Mean and Can We Measure It?” Policy Studies Journal 15(1): 29-52.
 * Deborah A. Stone. 2011. Policy Paradox: The Art of Political Decision Making, 3rd Edition. Chapter 2: Equity
 
 
 ### 9/1 Policy Frameworks: Multiple Streams and Agendas
 
-* John W. Kingdon. 2010. Agendas, Alternatives, and Public Policies, edition. Pearson. Chapter 8: The Policy Window and Joining the Streams.
+* John W. Kingdon. 2010. Agendas, Alternatives, and Public Policies, edition. Pearson. Chapter 8: The Policy Window and Joining the Streams and Chapter 9: Health Care Reform in the Clinton and Obama Administrations.
 
 
 ### 9/6 Policy Frameworks: Advocacy Coalitions
@@ -47,8 +48,8 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 ### 9/20 Problem Definitions, Types of Problems
 
-*  B&P 1-14
 * W.E.B. DuBois. 1897. “The Strivings of the Negro People.” The Atlantic.
+* Amos Tversky and Daniel Kahneman. 1981. "The Framing of Decisions and the Psychology of Choice." Science 211:543-458.e
 * Bill Kennedy, Emily Fisher, and Colin Bailey. 2010. “Framing in Race-Conscious, Antipoverty Advocacy.” Journal of Poverty Law and Policy 43(9-10): 408-421.
 
 
@@ -58,24 +59,22 @@ There are no books to purchase for this class. All readings will be shared on pe
 ### 9/27 Memo 1 Presentations
 
 
-### 9/29 Evidence and Alternatives
+### 9/29 Evidence
 
-* B&P 14-31
 * Rebecca C. Hetey and Jennifer L. Eberhardt. 2018. The Numbers Don’t Speak for Themselves: Racial Disparities and the Persistence of Inequality in the Criminal Justice System. Current Directions in Psychological Science 27: 183–187.
-* Jonathan Scwabish and Alice Feng. 2020. “Applying Racial Equity Awareness in Data Visualization.” Data@Urban Medium Post.
-* Leah Hendey and Marcus Gaddy. 2020. “Taking an Equity Lens to Our Data Practice.” Data@Urban Medium Post.
+* Carlos Martin and Jamal Lewis. 2019. “The State of Equity Measurement: A Review for Energy-Efficiency Programs.” Urban Institute, pgs. 1-34.
 
 
-### 10/4 Selection and Outcomes
+### 10/4 Alternatives and Selection
 
-* B&P 31-69
+* Eugene Bardach and Eric M. Patashnik. 2020. A Practical Guide for Policy Analysis, 6th ed. Sage. Pages 21-49.
 * Eldar Shafir. 2013. “Introduction.” The Behavioral Foundations of Public Policy, Eldar Shafir (ed). Princeton University Press. Chapter 28.
 * Donald A. Redelmeier. 2013. “Behavioral Decision Science Applied to Health-Care Policy.” The Behavioral Foundations of Public Policy, Eldar Shafir (ed). Princeton University Press. Chapter 28.
 
 
-### 10/6 Tradeoffs and Decisions
+### 10/6 Outcomes, Tradeoffs and Decisions
 
-* B&P 69-84
+* David L. Weimer and Aidan R. Vining. 2017. Policy Analysis: Concepts and Practice. Routledge. Ch 14 or 15
 * Paul Brest. 2013. “Quis custodiet ipsos custodes? Debiasing the Policy Makers Themselves.” The Behavioral Foundations of Public Policy, Eldar Shafir (ed). Princeton University Press. Chapter 29 (pages 481-493)
 * Fisman, Raymond, Pamela Jakiela, Shachar Kariv, and Daniel Markovits. 2015. “The Distributional Preferences of an Elite.” Science 349(6254):aab0096
 
@@ -122,14 +121,16 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 ### 11/8 Evaluation and Equity Tools
 
-* Heather Krause. We All Count Blog posts
+* We All Count Blog posts (Heather Krause)
 
   - Better for Who?
   - How to Make the Shift to Equitable Evaluation
   - Framing Research Questions that Reflect Who Is Expected to Change
 
-* Equity Impact Tools
-  - Add links
+* Urban Institute Posts
+
+  - Jonathan Scwabish and Alice Feng. 2020. “Applying Racial Equity Awareness in Data Visualization.” Data@Urban Medium Post.
+  - Leah Hendey and Marcus Gaddy. 2020. “Taking an Equity Lens to Our Data Practice.” Data@Urban Medium Post.
 
 
 ### 11/10 Memo 3 Round Robin
@@ -148,7 +149,8 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 ### 12/1 Wrapping Up
 
-* TBA
+* Office of Management and Budget. 2021. Study to Identify Methods to Assess Equity: Report to the President. Pgs 12-48.
+
 
 ### 12/6 Final Report Round Robin
 
