@@ -9,6 +9,7 @@ We will consider key policy stages, in turn - formulation, analysis, and impleme
 Over the course of the semester, we will develop a roadmap for equitable policy evaluation – in policy formulation, analysis, and implementation. Through team-based projects focusing on policies targeted at the challenges faced by different populations and people, we’ll generate concrete examples of what such an evaluative process could look like across domains.
 
 * [Schedule and Reading](schedule.html)
+* [People and Memos](populations.html)
 * [Expectations and Evaluations](expectations.html)
 * [Batten School Policies](batten-policies.html)
 

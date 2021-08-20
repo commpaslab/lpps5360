@@ -22,32 +22,13 @@ The individual work is directed at supporting everyone’s ability to effectivel
 
 * Memo Sketch Work (15%): Before the first group memo, you’ll submit three short pieces (i.e., 750 words max) demonstrating your independent thinking and work
 
-    - Policy Selection, 9/1: TBA
-    - Policy Stakeholders, 9/8: TBA
-    - Policy Problems, 9/15: TBA
+    - [Problem Identification](populations.html), 9/6 (5%)
+    - [Causes and Consequences](populations.html), 9/13 (5%)
+    - [Policy Stakeholders](populations.html), 9/20 (5%)
 
 ### Team Assignments (50%):
 
-
- * Memo 1, 10%: (TBA, current policy, policy problem identification and alternative formulations of problem, and equity evaluation; policy stakeholders, expansion, and equity evaluation)
-
-    - round robin - 9/22
-    - presentation - 9/27
-    - submitted - 10/1
-
- * Memo 2, 10%: (TBA, problem definition, evidence, alternatives, criteria, outcomes, tradeoffs with equity lens)
-
-    - round robin - 10/13
-    - presentation, 10/18
-    - submitted, - 10/20
-
- * Memo 3, 10%: (TBA, budgets, design processes, signals, locus, and equity evaluation)
-
-     - round robin - 11/10
-     - presentation - 11/15
-     - submitted - 11/17
-
- * Final Report, 20%: (revised and integrated memos 1, 2, 3; recommendations for increasing equity, for improving ability to evaluate for equity)
-
-    - round robin - 12/6
-    - presentation and submission - 12/17
+* Memo 1, 10/1 (10%): round robin, 9/27; presentation, 9/29; submitted - 10/1
+* Memo 2, 10/20 (10%): round robin, 10/18; presentation, 10/20; submitted, 10/22
+* Memo 3, 11/17 (10%): round robin, 11/15; presentation, 11/17; submitted, 11/19
+* Final Report, 12/10 (20%): round robin, 12/1; presentation, 12/6; submitted, 12/10

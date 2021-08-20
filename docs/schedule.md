@@ -15,28 +15,32 @@ There are no books to purchase for this class. All readings will be shared on pe
 * William Blanchard. 1986. “Evaluating Social Equity: What Does Fairness Mean and Can We Measure It?” *Policy Studies Journal* 15(1): 29-52.
 * Deborah A. Stone. 2011. *Policy Paradox: The Art of Political Decision Making,* 3rd Edition. Chapter 2: Equity
 
+*Teams Formed*
 
 ### 9/1 Policy Frameworks: Multiple Streams and Agendas
 
 * John W. Kingdon. 2010. *Agendas, Alternatives, and Public Policies,* 2nd edition. Pearson. Chapter 8: The Policy Window and Joining the Streams and Chapter 9: Health Care Reform in the Clinton and Obama Administrations.
 
 
-### 9/6 Policy Frameworks: Advocacy Coalitions
+### 9/6 Policy Frameworks: What’s the Problem
+
+* Carol Bacchi and Susan Goodwin. 2016. *Poststructural Policy Analysis: A Guide to Practice.* Palgrave. Chapter 2: Making Politics Visible: The WPR Approach.
+* Carol Bacchi. 1999. *Women, Policy, and Politics: The Construction of Policy Problems.* Sage. Chapter 7: Child Care Policy: Who Gains?
+
+*Pre-memo due: Problem Identification*
+
+### 9/8 Policy Frameworks: Advocacy Coalitions
 
 * Michael Parenti. 1970. “Power and Pluralism: A View from the Bottom.” *The Journal of Politics* 32(3):501-530.
 * Paul Cairney podcast/blog post: [The Advocacy Coalition Framework](https://paulcairney.wordpress.com/2013/10/30/policy-concepts-in-1000-words-the-advocacy-coalition-framework/)
 
 
-### 9/8 Policy Frameworks: Policy Feedback and Social Construction
+### 9/13 Policy Frameworks: Policy Feedback and Social Construction
 
 * Anne Schneider and Helen Ingram. 1993. “Social Construction of Target Populations: Implications for Politics and Policy.” *The American Political Science Review* 87(2): 334-347.
 * Suzanne Mettler and Mallory Sorelle. 2018. “Policy Feedback Theory.” *Theories of the Policy Process*, 4th edition. Routledge.
 
-
-### 9/13 Policy Frameworks: What’s the Problem
-
-* Carol Bacchi and Susan Goodwin. 2016. *Poststructural Policy Analysis: A Guide to Practice.* Palgrave. Chapter 2: Making Politics Visible: The WPR Approach.
-* Carol Bacchi. 1999. *Women, Policy, and Politics: The Construction of Policy Problems.* Sage. Chapter 7: Child Care Policy: Who Gains?
+*Pre-memo due: Causes and Consequences*
 
 
 ### 9/15 Policy Frameworks: Policy Types and Tools
@@ -52,18 +56,19 @@ There are no books to purchase for this class. All readings will be shared on pe
 * Amos Tversky and Daniel Kahneman. 1981. "The Framing of Decisions and the Psychology of Choice." *Science* 211:543-458.e
 * Moira O’Neil and Julie Sweetland. 2018. *Piecing it together: A framing playbook for affordable housing advocates.* Washington, DC: FrameWorks Institute.
 
+*Pre-memo due: Policy Stakeholders*
 
-### 9/22 Memo 1 Round Robin
-
-
-### 9/27 Memo 1 Presentations
-
-
-### 9/29 Evidence
+### 9/22 Evidence
 
 * Rebecca C. Hetey and Jennifer L. Eberhardt. 2018. "The Numbers Don’t Speak for Themselves: Racial Disparities and the Persistence of Inequality in the Criminal Justice System." *Current Directions in Psychological Science* 27: 183–187.
 * Carlos Martin and Jamal Lewis. 2019. “The State of Equity Measurement: A Review for Energy-Efficiency Programs.” *Urban Institute*, pgs. 1-34.
 
+
+### 9/27 Memo 1 Round Robin
+
+### 9/29 Memo 1 Presentations
+
+*Memo 1 submitted 10/1*
 
 ### 10/4 Alternatives and Selection
 
@@ -78,18 +83,20 @@ There are no books to purchase for this class. All readings will be shared on pe
 * Paul Brest. 2013. “Quis custodiet ipsos custodes? Debiasing the Policy Makers Themselves.” *The Behavioral Foundations of Public Policy*, Eldar Shafir (ed). Princeton University Press. Chapter 29 (pages 481-493)
 * Fisman, Raymond, Pamela Jakiela, Shachar Kariv, and Daniel Markovits. 2015. “The Distributional Preferences of an Elite.” *Science* 349(6254):aab0096
 
-### 10/11 Reading today
+### 10/11 Reading Day
 
-### 10/13 Memo 2 Round Robin
-
-### 10/18 Memo 2 Presentations
-
-### 10/20 Policy Analysis Revisited
+### 10/13 Policy Analysis Revisited
 
 * Steven Rathgeb Smith and Helen M. Ingram. 2002. “Rethinking Policy Analysis: Citizens, Community, and the Restructuring of Public Services.” *The Good Society* 11(1): 55-60.
 * John S. Dryzek. 2002. “A Post-Positivist Policy-Analytic Travelogue.” *The Good Society* 11(1): 32-36 OR Peter DeLeon and Ralph C. Longobardi. 2002. “Policy Analysis in the Good Society.” *The Good Society* 11(1): 37-41.
 * Kathleen M. Shaw. 2004. “​​Using Feminist Critical Policy Analysis in the Realm of Higher Education: The Case of Welfare Reform as Gendered Educational Policy.” *The Journal of Higher Education* 75(1): 56-79.
 
+
+### 10/18 Memo 2 Round Robin
+
+### 10/20 Memo 2 Presentations
+
+*Memo 2 submitted 10/22*
 
 ## Policy Implementation
 
@@ -133,25 +140,27 @@ There are no books to purchase for this class. All readings will be shared on pe
   - Leah Hendey and Marcus Gaddy, [Taking an Equity Lens to Our Data Practice](https://urban-institute.medium.com/taking-an-equity-lens-to-our-data-practice-8d7645b25ac8)
 
 
-### 11/10 Memo 3 Round Robin
+### 11/10 Revisiting Implementation
 
-### 11/15 Memo 3 Presentations
+  * Allan McConnell. 2010. “Policy Success, Policy Failure and Grey Areas In-Between.” *Journal of Public Policy* 30(3): 345-362.
 
-### 11/17 Revisiting Implementation
 
-* Allan McConnell. 2010. “Policy Success, Policy Failure and Grey Areas In-Between.” *Journal of Public Policy* 30(3): 345-362.
+### 11/15 Memo 3 Round Robin
+
+### 11/17 Memo 3 Presentations
+
+*Memo 3 submitted 11/19*
 
 ### 11/22 Group Works
 
 ### 11/24 Thanksgiving Break
 
-### 11/29 Presentation Tips and Group Work
-
-### 12/1 Wrapping Up
+### 11/29 Wrapping Up
 
 * Office of Management and Budget. 2021. Study to Identify Methods to Assess Equity: Report to the President. Pgs 12-48.
 
+### 12/1 Final Report Round Robin
 
-### 12/6 Final Report Round Robin
+### 12/6 Final Report Presentations
 
-### 12/17 (2:00-5:00) Final Presentations during our Final Exam Period
+*Final Report submitted 12/10*
