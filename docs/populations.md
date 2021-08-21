@@ -1,10 +1,12 @@
 ## Centering people: Issue Briefs
 
-One starting point for us will be the assumption that equitable policy centers people, that policies are oriented toward solving the problems people are facing or in creating conditions for people to thrive. Thus, our applied work will center people. The distinction requires a mental shift away from abstractions -- homelessness -- to concrete experiences of people who live without stable housing. Each team will focus on a particular population for which you will identify a primary problem or need which might be (or is being) addressed through public policy. You’ll deepen and develop your understanding and evaluation through a series of briefs.
+One starting point for us will be the assumption that equitable policy centers people, that policies are oriented toward solving the problems people are facing or in creating conditions for people to thrive. Thus, our applied work will center people. The distinction requires a mental shift away from abstractions -- homelessness -- to concrete experiences of people who live without stable housing. In terms of equity, we’ll seek to emphasize the experience of people of color and others who have been historically marginalized, excluded, or systematically targeted by harmful policies.
 
 ### Potential Populations
 
-We will identify teams on Monday, 8/30. Your team may choose one of the following populations or propose an alternative population. Either way, your team will identify your proposed choice by Wednesday, 9/1, on a shared google doc.
+Each team will focus on a particular population for which you will identify a primary problem or need which might be (or is being) addressed through public policy. You’ll deepen and develop your understanding and evaluation through a series of briefs.
+
+Your team may choose one of the following populations or propose an alternative population.
 
 * Displaced workers
 * Women in the military
@@ -21,6 +23,8 @@ We will identify teams on Monday, 8/30. Your team may choose one of the followin
 * Frontline workers
 * Pregnant woman/women with young children
 * Native Americans on reservations
+
+We will identify teams on Wednesday, 9/1.Your team will identify your proposed choice by Wednesday, 9/1, on a shared google doc.
 
 ### Pre-brief Sketch
 

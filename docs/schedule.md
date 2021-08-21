@@ -54,8 +54,6 @@ There are no books to purchase for this class. All readings will be shared on pe
 * Amos Tversky and Daniel Kahneman. 1981. "The Framing of Decisions and the Psychology of Choice." *Science* 211:543-458.e
 * Moira O’Neil and Julie Sweetland. 2018. *Piecing it together: A framing playbook for affordable housing advocates.* Washington, DC: FrameWorks Institute.
 
-*Pre-memo due: Policy Stakeholders*
-
 ### 9/22 Brief 1 Round Robin
 
 ### 9/27 Brief 1 Presentations
