@@ -1,15 +1,15 @@
-## Centering people
+## Centering people: Issue Briefs
 
-Policies are, at least part, oriented toward solving the problems people are facing or in creating conditions for people to thrive. Our applied work will center people. Each team will focus on a particular population for which you will identify a primary problem or need which might be (or is being) addressed through public policy. You’ll deepen and develop your understanding and evaluation through a series of memos.
+One starting point for us will be the assumption that equitable policy centers people, that policies are oriented toward solving the problems people are facing or in creating conditions for people to thrive. Thus, our applied work will center people. The distinction requires a mental shift away from abstractions -- homelessness -- to concrete experiences of people who live without stable housing. Each team will focus on a particular population for which you will identify a primary problem or need which might be (or is being) addressed through public policy. You’ll deepen and develop your understanding and evaluation through a series of briefs.
 
 ### Potential Populations
 
 We will identify teams on Monday, 8/30. Your team may choose one of the following populations or propose an alternative population. Either way, your team will identify your proposed choice by Wednesday, 9/1, on a shared google doc.
 
+* Displaced workers
 * Women in the military
 * Migrants on the southern border
 * Coastal populations
-* Displaced workers
 * Formerly incarcerated people
 * Afghans seeking refuge
 * Transgender youth
@@ -22,24 +22,29 @@ We will identify teams on Monday, 8/30. Your team may choose one of the followin
 * Pregnant woman/women with young children
 * Native Americans on reservations
 
-### Pre-memo Sketches
+### Pre-brief Sketch
 
-The first three exercises will be completed individually. In the pre-memo sketches, you’ll begin to
+The initial pre-brief sketch will be completed individually. This sketch may be written in prose or in bulleted form; the ideas you’re generating are starting points. In the pre-brief sketches, you’ll address:
 
-1. Problem identification: Articulate a central challenge, condition, or problem experienced by your selected population (Monday, 9/6);
-2. Causes and Consequences: Outline the likely causes or contributors to the problem and consequences of the status quo for the population of interest (Monday, 9/13);
-3. Policy Stakeholders: identify relevant stakeholders within the policy and problem domain (e.g., advocacy coalitions), including how each is socially constructed (e.g., Ingram and Schneider) (Monday, 9/20);
+  1. The primary problem your selected population is experiencing. What is a central challenge, condition, barrier, or need?
+  2. Describe how experience of the problem varies across people, across places. Is your population of interest more impacted by the problem than other groups? Are their places in which your population is more impacted?
+  3. Outline the causes and consequences of the problem. What are the primary contributors and what are the likely outcomes for people experiencing the problem?
 
-These should be no more than 750 words and will be submitted on our course collab file drop.
 
-### Team Memos
+### Team Policy Briefs
 
-(To be expanded)
+Each team will complete a series of four briefs.
 
-In the first team memo, you’ll integrate your individual pre-memo sketch work, selecting, revising, and narrowing to address the above points and then working together to suggest alternative problem frames to the one you are using (e.g., Bacchi) and to identify additional stakeholders who should be part of problem solving.
+1. Problem Formulation: In the first team brief, you’ll share your individual pre-brief sketches with one another to learn from one another and negotiate a focus. You’ll revise and develop your selected problem focus to explain further the primary problem, how it varies across sub-populations, and the likely causes and consequences. In addition, you’ll consider alternative problem representations (think Bacchi’s work) and assess how the problem identification and representation can contribute to more equitable solutions.
 
-In the second team memo,
+2. Policy Interventions: In the second team brief, you’ll develop a menu of policy alternatives, interventions that will reduce the incidence of the problem by addressing causes or lessen the negative consequences of the problem for your focal population. In a climate change scenario, for example, we can reduce our CO2 emissions or we can build resilient cities. Find three policy interventions and explain how each will address the problem you’ve identified. Make a case for which policy intervention will generate the most equitable outcome. For this chosen policy, identify the relevant stakeholders beyond the target population (think advocacy coalitions). What are the potential tradeoffs with equity inherent in your chosen intervention?
 
-In the third team memo,
+3. Policy Implementation: In the third team brief, you’ll evaluate the policy you identified above with respect to implementation. Who should be involved in the policy design (think stakeholders above)? How will your target population interact with or access the policy benefits? Who will be executing the policy and how will that impact the policy experience (e.g., staffing, training, discretion, gatekeeping, culture)? What might the design of the policy communicate to the target population? How might administrative burdens be reduced?
 
-In the final report,
+4. Equity Recommendations: In the final brief, you’ll make some recommendations. Lay out the critical changes you would recommend at each of the stages examined in the previous briefs -- problem representation, policy intervention, policy implementation -- to promote equity. The brief should outline three options:
+
+    * Option 1: Focus on equity at problem identification/representation
+    * Option 2: Focus on equity at policy intervention/analysis stage
+    * Option 3: Focus on equity at implementation/design stage
+
+    Then identify the stage you see as the most critical for building toward equity in your policy area on behalf of your focus population. Where should we as policy makers be targeting attention first?
