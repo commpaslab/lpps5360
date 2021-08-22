@@ -8,11 +8,11 @@ We will test and expand our understanding through a semester-long team-based app
 ### Contributions to Material/Class (50%):
 The individual work is directed at supporting everyone’s ability to effectively contribute to a series of team memos.
 
-* Reading annotations (36%): To facilitate understanding and discussion we’ll all contribute to collaborative annotation and commenting on the reading using [Perusall](https://perusall.com/). I will review these ahead of class to help organize our discussion. 
+* Reading annotations (36%): To facilitate understanding and discussion we’ll all contribute to collaborative annotation and commenting on the reading using [Perusall](https://perusall.com/). I will review these ahead of class to help organize our discussion.
 
-We have reading assigned on eighteen out of twenty-eight days (excluding 8/25). Contributing annotations to readings for at least twelve days is necessary for full credit. Make at least four full contributions for a given day’s reading.
+  We have reading assigned on eighteen out of twenty-eight days (excluding 8/25). Contributing annotations to readings for at least twelve days is necessary for full credit. Make at least four full contributions for a given day’s reading.
 
-A full contribution will go beyond agreeing with a point or asking a question. It will engage a point, connect it to other ideas we might learn from, amend it to suggest a more limited or wider scope, note conditions under which it is more or less relevant, ponder how it might inform your project or other work of which you are aware, ask a question and provide an initial answer. If others have already commented on a passage and you want to address and elaborate on the initial comment (beyond basic agreement), you should. Think about the kinds of things you might raise in a discussion and bring them up in the annotations.
+  A full contribution will go beyond agreeing with a point or asking a question. It will engage a point, connect it to other ideas we might learn from, amend it to suggest a more limited or wider scope, note conditions under which it is more or less relevant, ponder how it might inform your project or other work of which you are aware, ask a question and provide an initial answer. If others have already commented on a passage and you want to address and elaborate on the initial comment (beyond basic agreement), you should. Think about the kinds of things you might raise in a discussion and bring them up in the annotations.
 
 * Collaborative Evaluations (14%): Each week (beginning the week of 8/30), you’ll evaluate your own contributions for the week on a scale from 1 to 3 with a shot (e.g., one sentence) explanation:
 
@@ -20,9 +20,9 @@ A full contribution will go beyond agreeing with a point or asking a question. I
   2. I offered some comments and stayed engaged, but I know I could do more; or my contributions across the week were uneven.
   3. I was fully prepared and engaged and contributed ideas that transformed the way others understood the material or moved our collective understanding forward.
 
-Once you begin submitting team-based work, you’ll submit a similar evaluation of your contributions as well as those of your team members after each brief is submitted.
+  Once you begin submitting team-based work, you’ll submit a similar evaluation of your contributions as well as those of your team members after each brief is submitted.
 
-If we have conflicting interpretations of your performance, we’ll chat. Final evaluation of your contributions is collaborative: you’re proposing an initial assessment that will be evaluated by me.
+  If we have conflicting interpretations of your performance, we’ll chat. Final evaluation of your contributions is collaborative: you’re proposing an initial assessment that will be evaluated by me.
 
 ### Project Brief Work (50%):
 
