@@ -6,7 +6,7 @@ One starting point for us will be the assumption that equitable policy centers p
 
 Each team will focus on a particular population for which you will identify a primary problem or need which might be (or is being) addressed through public policy. You’ll deepen and develop your understanding and evaluation through a series of briefs.
 
-Your team may choose one of the following populations or propose an alternative population.
+Your team may choose one of the following populations or propose an alternative population. All of these could use more focus and narrowing (e.g., geographically, intersectionally, occupationally, economically, linguistically, or other overlapping dimensions):
 
 * Displaced workers
 * Women in the military
@@ -24,7 +24,20 @@ Your team may choose one of the following populations or propose an alternative 
 * Pregnant woman/women with young children
 * Native Americans on reservations
 
-We will identify teams on Wednesday, 9/1.Your team will identify your proposed choice by Wednesday, 9/1, on a shared google doc.
+Newly proposed populations
+
+* Transgender people in the military
+* Children in Title I schools (schools with a high proportion of children from low-income families)
+* Children living in poverty
+* First-generation immigrants, undocumented immigrants, immigrant communities
+* Teenage mothers
+* Uninsured and underinsured people
+* People with disabilities
+* Climate refugees
+* Students
+
+
+We will identify teams on Wednesday, 9/1.Your team will identify your proposed choice by Monday, 9/6, on a shared google doc.
 
 ### Pre-brief Sketch
 
