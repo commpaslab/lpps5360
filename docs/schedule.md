@@ -21,17 +21,17 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 *Teams Formed*
 
-### 9/6 Policy Frameworks: What’s the Problem
-
-* Carol Bacchi and Susan Goodwin. 2016. *Poststructural Policy Analysis: A Guide to Practice.* Palgrave. Chapter 2: Making Politics Visible: The WPR Approach.
-* Carol Bacchi. 1999. *Women, Policy, and Politics: The Construction of Policy Problems.* Sage. Chapter 7: Child Care Policy: Who Gains?
-
-*Populations Selected*
-
-### 9/8 Policy Frameworks: Advocacy Coalitions
+### 9/6 Policy Frameworks: Advocacy Coalitions
 
 * Michael Parenti. 1970. “Power and Pluralism: A View from the Bottom.” *The Journal of Politics* 32(3):501-530.
 * Paul Cairney podcast/blog post: [The Advocacy Coalition Framework](https://paulcairney.wordpress.com/2013/10/30/policy-concepts-in-1000-words-the-advocacy-coalition-framework/)
+
+*Populations Selected*
+
+### 9/8 Policy Frameworks: What’s the Problem
+
+* Carol Bacchi and Susan Goodwin. 2016. *Poststructural Policy Analysis: A Guide to Practice.* Palgrave. Chapter 2: Making Politics Visible: The WPR Approach.
+* Carol Bacchi. 1999. *Women, Policy, and Politics: The Construction of Policy Problems.* Sage. Chapter 7: Child Care Policy: Who Gains?
 
 
 ### 9/13 Policy Frameworks: Policy Feedback and Social Construction
