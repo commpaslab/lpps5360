@@ -44,7 +44,7 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 * Lester Salamon. 2002. *The New Governance and the Tools of Public Action: An Introduction.* Chapter 1.
 
-*Pre-Brief Sketch due*
+*Pre-Brief Sketch due by 11:59pm Wednesday*
 
 ## Policy Interventions and Analysis
 

@@ -28,7 +28,7 @@ The individual work is directed at supporting everyone’s ability to effectivel
 
 See more about the [project briefs](populations.html)
 
-* Pre-brief sketch (5%), 9/15, 2 page outline/bullets
+* Pre-brief sketch (5%), 9/15 (by 11:59pm), 2 page outline/bullets
 * Problem identification brief (10%)
 
     - Round robin, 9/27

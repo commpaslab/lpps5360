@@ -41,6 +41,8 @@ We will identify teams on Wednesday, 9/1.Your team will identify your proposed c
 
 ### Pre-brief Sketch
 
+Due Wednesday, 9/15 (by 11:59pm)
+
 The initial pre-brief sketch will be completed individually. This sketch may be written in prose or in bulleted form; the ideas you’re generating are starting points. In the pre-brief sketches, you’ll address:
 
   1. The primary problem your selected population is experiencing. What is a central challenge, condition, barrier, or need?
