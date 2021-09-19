@@ -31,8 +31,8 @@ See more about the [project briefs](populations.html)
 * Pre-brief sketch (5%), 9/15 (by 11:59pm), 2 page outline/bullets
 * Problem identification brief (10%)
 
-    - Round robin, 9/27
-    - Presentation, 9/29, 3 minutes presentation and 3 minutes of Q&A
+    - Round robin, 9/22
+    - Presentation, 9/27, 3 minutes presentation and 3 minutes of Q&A
     - Written brief, 10/1, 1500 words max (~ 3 single-spaced pages)
 
 * Policy Intervention brief (10%)
