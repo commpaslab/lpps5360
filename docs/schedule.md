@@ -68,9 +68,8 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 ### 10/4 Policy Alternatives and Selection
 
-* Eugene Bardach and Eric M. Patashnik. 2020. *A Practical Guide for Policy Analysis*, 6th ed. Sage. Pages 21-49.
-* Eldar Shafir. 2013. “Introduction.” *The Behavioral Foundations of Public Policy*, Eldar Shafir (ed). Princeton University Press. Chapter 28.
-* Donald A. Redelmeier. 2013. “Behavioral Decision Science Applied to Health-Care Policy.” *The Behavioral Foundations of Public Policy*, Eldar Shafir (ed). Princeton University Press. Chapter 28.
+* Paul Slovic, David Zionts, Andrew K. Woods, Ryan Goodman, and Derek Jinks. 2013. Psychic Numbing and Mass Atrocity.” *The Behavioral Foundations of Public Policy*, Eldar Shafir (ed). Princeton University Press. Chapter 7.
+* Elke U. Weber. 2013. “Doing the Right Thing Willingly: Using the Insights of Behavioral Decision Research for Better Environmental Decisions” *The Behavioral Foundations of Public Policy*, Eldar Shafir (ed). Princeton University Press. Chapter 22.
 
 
 ### 10/6 Policy Outcomes, Tradeoffs and Decisions
