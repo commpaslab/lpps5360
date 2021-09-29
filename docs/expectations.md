@@ -33,7 +33,7 @@ See more about the [project briefs](populations.html)
 
     - Round robin, 9/22
     - Presentation, 9/27, 3 minutes presentation and 3 minutes of Q&A
-    - Written brief, 10/1, 1500 words max (~ 3 single-spaced pages)
+    - Written brief, 10/1 (by 11:59pm), 1500 words max (~ 3 single-spaced pages)
 
 * Policy Intervention brief (10%)
 
