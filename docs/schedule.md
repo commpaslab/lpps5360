@@ -44,7 +44,7 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 * Lester Salamon. 2002. *The New Governance and the Tools of Public Action: An Introduction.* Chapter 1.
 
-*Pre-Brief Sketch due by 11:59pm Wednesday*
+*Pre-Brief Sketch due by 11:59 pm Wednesday*
 
 ## Policy Interventions and Analysis
 
@@ -58,7 +58,7 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 ### 9/27 Brief 1 Presentations
 
-*Brief 1 due 10/1*
+*Brief 1 due 10/1 (by 11:59 pm)*
 
 ### 9/29 Policy Evidence
 
@@ -74,11 +74,12 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 ### 10/6 Policy Outcomes, Tradeoffs and Decisions
 
-* David L. Weimer and Aidan R. Vining. 2017. *Policy Analysis: Concepts and Practice.* Routledge. Ch 14 or 15
 * Paul Brest. 2013. “Quis custodiet ipsos custodes? Debiasing the Policy Makers Themselves.” *The Behavioral Foundations of Public Policy*, Eldar Shafir (ed). Princeton University Press. Chapter 29 (pages 481-493)
 * Fisman, Raymond, Pamela Jakiela, Shachar Kariv, and Daniel Markovits. 2015. “The Distributional Preferences of an Elite.” *Science* 349(6254):aab0096
 
+
 ### 10/11 Reading Day
+
 
 ## Policy Implementation
 
@@ -86,7 +87,7 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 ### 10/18 Brief 2 Presentations
 
-*Brief 2 due 10/22*
+*Brief 2 due 10/22 (by 11:59 pm)*
 
 ### 10/20 Policy Analysis Revisited, Implementation
 
@@ -116,7 +117,7 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 ### 11/8 Brief 3 Presentations
 
-*Brief 3 submitted 11/12*
+*Brief 3 submitted 11/12 (by 11:59 pm)*
 
 
 ### 11/10 Revisiting Implementation
@@ -151,4 +152,4 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 ### 12/6 Brief 4 Presentations
 
-*Brief 4 due 12/10*
+*Brief 4 due 12/10 (by 11:59 pm)*
