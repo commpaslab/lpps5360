@@ -80,24 +80,27 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 ### 10/11 Reading Day
 
-
-## Policy Implementation
-
 ### 10/13 Brief 2 Round Robin
 
 ### 10/18 Brief 2 Presentations
 
 *Brief 2 due 10/22 (by 11:59 pm)*
 
-### 10/20 Policy Analysis Revisited, Implementation
+### 10/20 Policy Analysis Revisited
 
 * Steven Rathgeb Smith and Helen M. Ingram. 2002. “Rethinking Policy Analysis: Citizens, Community, and the Restructuring of Public Services.” *The Good Society* 11(1): 55-60.
 * John S. Dryzek. 2002. “A Post-Positivist Policy-Analytic Travelogue.” *The Good Society* 11(1): 32-36 OR Peter DeLeon and Ralph C. Longobardi. 2002. “Policy Analysis in the Good Society.” *The Good Society* 11(1): 37-41.
-* Kathleen M. Shaw. 2004. “​​Using Feminist Critical Policy Analysis in the Realm of Higher Education: The Case of Welfare Reform as Gendered Educational Policy.” *The Journal of Higher Education* 75(1): 56-79.
+* Law and Political Economy Project. 2021. Symposium on the Future of Cost-Benefit Analysis.
+    - Frank Pasquale, "Cost-Beneift Analysis at a Crossroads: A Symposium on the Future of Quantitative Policy Evaluation," 2021-09-27
+    - Lisa Heinzerling, "Climate Change, Racial Justice, and Cost-Benefit Analysis." 2021-09-28
+    - Zachary Liscow, "Equity in Regulatory Cost-Benefit Analysis." 2021-10-04
+    - Elizabeth Popp Berman, "Let's Politicize Cost-Benefit Analysis." 2021-10-05
+
+## Policy Implementation
 
 ### 10/25 Implementation: Design Processes
 
-* Richard E. Matland. 1995. “Synthesizing the Implementation Literature: The Ambiguity-Conflict Model of Policy Implementation.” *Journal of Public Administration Research and Theory* 5(2): 145-174.
+* (Revise) Richard E. Matland. 1995. “Synthesizing the Implementation Literature: The Ambiguity-Conflict Model of Policy Implementation.” *Journal of Public Administration Research and Theory* 5(2): 145-174.
 * Tony Bovaird. 2007. “Beyond Engagement and Participation: User and Community Coproduction of Public Services.” *Public Administration Review* 67(5): 846-860.
 * Archon Fung. 2002. “Creating Deliberative Publics: Governance After Devolution and Democratic Centralism.” *The Good Society* 11(1): 66-71.
 
