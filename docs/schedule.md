@@ -90,7 +90,7 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 * Steven Rathgeb Smith and Helen M. Ingram. 2002. “Rethinking Policy Analysis: Citizens, Community, and the Restructuring of Public Services.” *The Good Society* 11(1): 55-60.
 * John S. Dryzek. 2002. “A Post-Positivist Policy-Analytic Travelogue.” *The Good Society* 11(1): 32-36 OR Peter DeLeon and Ralph C. Longobardi. 2002. “Policy Analysis in the Good Society.” *The Good Society* 11(1): 37-41.
-* Law and Political Economy Project. 2021. Symposium on the Future of Cost-Benefit Analysis.
+* Law and Political Economy Project. 2021. [Symposium on the Future of Cost-Benefit Analysis.](https://lpeproject.org/symposia/cost-benefit-analysis/)
     - Frank Pasquale, "Cost-Beneift Analysis at a Crossroads: A Symposium on the Future of Quantitative Policy Evaluation," 2021-09-27
     - Lisa Heinzerling, "Climate Change, Racial Justice, and Cost-Benefit Analysis." 2021-09-28
     - Zachary Liscow, "Equity in Regulatory Cost-Benefit Analysis." 2021-10-04
