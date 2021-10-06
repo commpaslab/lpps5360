@@ -66,13 +66,13 @@ There are no books to purchase for this class. All readings will be shared on pe
 * Carlos Martin and Jamal Lewis. 2019. “The State of Equity Measurement: A Review for Energy-Efficiency Programs.” *Urban Institute*, pgs. 1-34.
 
 
-### 10/4 Policy Alternatives and Selection
+### 10/4 Policy Alternatives
 
 * Paul Slovic, David Zionts, Andrew K. Woods, Ryan Goodman, and Derek Jinks. 2013. Psychic Numbing and Mass Atrocity.” *The Behavioral Foundations of Public Policy*, Eldar Shafir (ed). Princeton University Press. Chapter 7.
 * Elke U. Weber. 2013. “Doing the Right Thing Willingly: Using the Insights of Behavioral Decision Research for Better Environmental Decisions” *The Behavioral Foundations of Public Policy*, Eldar Shafir (ed). Princeton University Press. Chapter 22.
 
 
-### 10/6 Policy Outcomes, Tradeoffs and Decisions
+### 10/6 Policy Selection and Tradeoffs
 
 * Paul Brest. 2013. “Quis custodiet ipsos custodes? Debiasing the Policy Makers Themselves.” *The Behavioral Foundations of Public Policy*, Eldar Shafir (ed). Princeton University Press. Chapter 29 (pages 481-493)
 * Fisman, Raymond, Pamela Jakiela, Shachar Kariv, and Daniel Markovits. 2015. “The Distributional Preferences of an Elite.” *Science* 349(6254):aab0096
@@ -86,7 +86,7 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 *Brief 2 due 10/22 (by 11:59 pm)*
 
-### 10/20 Policy Analysis Revisited
+### 10/20 Policy Outcomes and Tradeoffs; Policy Analysis Revisited
 
 * Steven Rathgeb Smith and Helen M. Ingram. 2002. “Rethinking Policy Analysis: Citizens, Community, and the Restructuring of Public Services.” *The Good Society* 11(1): 55-60.
 * John S. Dryzek. 2002. “A Post-Positivist Policy-Analytic Travelogue.” *The Good Society* 11(1): 32-36 OR Peter DeLeon and Ralph C. Longobardi. 2002. “Policy Analysis in the Good Society.” *The Good Society* 11(1): 37-41.
