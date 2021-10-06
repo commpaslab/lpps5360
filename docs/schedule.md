@@ -77,6 +77,10 @@ There are no books to purchase for this class. All readings will be shared on pe
 * Paul Brest. 2013. “Quis custodiet ipsos custodes? Debiasing the Policy Makers Themselves.” *The Behavioral Foundations of Public Policy*, Eldar Shafir (ed). Princeton University Press. Chapter 29 (pages 481-493)
 * Fisman, Raymond, Pamela Jakiela, Shachar Kariv, and Daniel Markovits. 2015. “The Distributional Preferences of an Elite.” *Science* 349(6254):aab0096
 
+Article discussed in class
+
+* Tali Mendelberg, Katherine T. McCabe, and Adam Thal. 2017. "College Socialization and the Economic Views of Affluent Americans." *American Journal of Political Science* 61(3): 606-623. ([Official Version at JSTOR](https://www.jstor.org/stable/26379513?seq=1#metadata_info_tab_contents), [Preprint Version](https://scholar.princeton.edu/sites/default/files/talim/files/mendelberg_mccabe_thal_ajps_final_early_view_article_july_15_2016.pdf))
+
 
 ### 10/11 Reading Day
 
