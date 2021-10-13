@@ -11,7 +11,7 @@ There are no books to purchase for this class. All readings will be shared on pe
 
 ### 8/30 What is Equity? Policy Frameworks: Rational Process
 
-* Executive Order 13985 [Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
+* Executive Order 13985. January 20, 2021. [Advancing Racial Equity and Support for Underserved Communities Through the Federal Government](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/)
 * William Blanchard. 1986. “Evaluating Social Equity: What Does Fairness Mean and Can We Measure It?” *Policy Studies Journal* 15(1): 29-52.
 * Deborah A. Stone. 2011. *Policy Paradox: The Art of Political Decision Making,* 3rd Edition. Chapter 2: Equity
 
@@ -92,13 +92,13 @@ Article discussed in class
 
 ### 10/20 Policy Outcomes and Tradeoffs; Policy Analysis Revisited
 
-* Steven Rathgeb Smith and Helen M. Ingram. 2002. “Rethinking Policy Analysis: Citizens, Community, and the Restructuring of Public Services.” *The Good Society* 11(1): 55-60.
-* John S. Dryzek. 2002. “A Post-Positivist Policy-Analytic Travelogue.” *The Good Society* 11(1): 32-36 OR Peter DeLeon and Ralph C. Longobardi. 2002. “Policy Analysis in the Good Society.” *The Good Society* 11(1): 37-41.
 * Law and Political Economy Project. 2021. [Symposium on the Future of Cost-Benefit Analysis.](https://lpeproject.org/symposia/cost-benefit-analysis/)
-    - Frank Pasquale, "Cost-Beneift Analysis at a Crossroads: A Symposium on the Future of Quantitative Policy Evaluation," 2021-09-27
+    - Presidential Memorandum. January 20, 2021. [Modernizing Regulatory Review](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/modernizing-regulatory-review/).
+    - Frank Pasquale, "Cost-Benefit Analysis at a Crossroads: A Symposium on the Future of Quantitative Policy Evaluation," 2021-09-27
     - Lisa Heinzerling, "Climate Change, Racial Justice, and Cost-Benefit Analysis." 2021-09-28
     - Zachary Liscow, "Equity in Regulatory Cost-Benefit Analysis." 2021-10-04
-    - Elizabeth Popp Berman, "Let's Politicize Cost-Benefit Analysis." 2021-10-05
+* John S. Dryzek. 2002. “A Post-Positivist Policy-Analytic Travelogue.” *The Good Society* 11(1): 32-36 
+* Steven Rathgeb Smith and Helen M. Ingram. 2002. “Rethinking Policy Analysis: Citizens, Community, and the Restructuring of Public Services.” *The Good Society* 11(1): 55-60.
 
 ## Policy Implementation
 
