@@ -97,17 +97,15 @@ Article discussed in class
     - Frank Pasquale, "Cost-Benefit Analysis at a Crossroads: A Symposium on the Future of Quantitative Policy Evaluation," 2021-09-27
     - Lisa Heinzerling, "Climate Change, Racial Justice, and Cost-Benefit Analysis." 2021-09-28
     - Zachary Liscow, "Equity in Regulatory Cost-Benefit Analysis." 2021-10-04
-* John S. Dryzek. 2002. “A Post-Positivist Policy-Analytic Travelogue.” *The Good Society* 11(1): 32-36 
+* John S. Dryzek. 2002. “A Post-Positivist Policy-Analytic Travelogue.” *The Good Society* 11(1): 32-36
 * Steven Rathgeb Smith and Helen M. Ingram. 2002. “Rethinking Policy Analysis: Citizens, Community, and the Restructuring of Public Services.” *The Good Society* 11(1): 55-60.
 
 ## Policy Implementation
 
-### 10/25 Implementation: Design Processes
+### 10/25 Design Processes
 
-* (Revise) Richard E. Matland. 1995. “Synthesizing the Implementation Literature: The Ambiguity-Conflict Model of Policy Implementation.” *Journal of Public Administration Research and Theory* 5(2): 145-174.
 * Tony Bovaird. 2007. “Beyond Engagement and Participation: User and Community Coproduction of Public Services.” *Public Administration Review* 67(5): 846-860.
-* Archon Fung. 2002. “Creating Deliberative Publics: Governance After Devolution and Democratic Centralism.” *The Good Society* 11(1): 66-71.
-
+* Gemma Carey, Helen Dickinson, and Sue Olney. 2017. "What Can Feminist Theory Offer Policy Implementation Challenges?" *Evidence & Policy: A Journal of Research, Debate and Practice* 15(1): 143-159.
 
 ### 10/27 People and Places
 
@@ -117,7 +115,7 @@ Article discussed in class
 
 ### 11/1 Design Signals
 
-* Joe Soss. 1999. “Lessons of Welfare: Policy Design, Political Learning, and Political Action.” *American Political Science Review* 93(2): 363-380.
+* Pamela Herd and Donald P. Moynihan. 2018. *Administrative Burden: Policymaking by Other Means.* Russell Sage Foundation. Chapter X: TBA
 * Patricia Strach. 2007. *All in the Family: The Private Roots of American Public Policy.* Press. Stanford University Press. Chapter 1: Family and American Public Policy.
 
 ### 11/3 Brief 3 Round Robin
