@@ -109,14 +109,14 @@ Article discussed in class
 
 ### 10/27 People and Places
 
-* Michael Lipsky. 2010. *Street-Level Bureaucracy: Dilemmas of the Individual in Public Service.* Russell Sage Foundation. Chapter 2: Street-Level Bureaucrats as Policy Makers, and Chapter 8: Rationing Services - Inequality in Administration.
-* Steven Rathgeb Smith and Michael Lipsky. 1993. *Nonprofits for Hire: The Welfare State in the Age of Contracting.* Harvard University Press. Chapter 1: Contracting for Services in the Welfare State.
+* Michael Lipsky. 2010. *Street-Level Bureaucracy: Dilemmas of the Individual in Public Service.* Russell Sage Foundation. Chapter 1: The Critical Roles of Street-Level Bureaucrats.
+* Laurel Eckhouse. 2021. "Metrics Management and Bureaucratic Accountability: Evidence from Policing." *American Journal of Political Science* Forthcoming issue.
 
 
 ### 11/1 Design Signals
 
-* Pamela Herd and Donald P. Moynihan. 2018. *Administrative Burden: Policymaking by Other Means.* Russell Sage Foundation. Chapter X: TBA
-* Patricia Strach. 2007. *All in the Family: The Private Roots of American Public Policy.* Press. Stanford University Press. Chapter 1: Family and American Public Policy.
+* Pamela Herd and Donald P. Moynihan. 2018. *Administrative Burden: Policymaking by Other Means.* Russell Sage Foundation. Chapter 2: The Resurgence of Burdens in Voting.
+* Annie Lowrey. 2021. "The Time Tax." *The Atlantic.* July 27, 2021.
 
 ### 11/3 Brief 3 Round Robin
 
@@ -125,25 +125,28 @@ Article discussed in class
 *Brief 3 submitted 11/12 (by 11:59 pm)*
 
 
-### 11/10 Revisiting Implementation
+### 11/10 Evaluation
 
-  * Allan McConnell. 2010. “Policy Success, Policy Failure and Grey Areas In-Between.” *Journal of Public Policy* 30(3): 345-362.
-
-
-### 11/15 Evaluation and Equity Tools
-
+* Frank Farrow and Sarah Morrison. 2019. [“Placing Equity Concerns at the Center of Knowledge Development.](https://cssp.org/resource/equity-at-the-center/) Center for the Study of Social Policy.
+* Rhyall Barry Gordon, Matt Lumb, Matthew Bunn, and Penny Jane Burke. 2021. ["Evaluation for Equity: Reclaiming Evaluation by Striving Towards Counter-Hegemonic Democratic Practices."](https://www.tandfonline.com/doi/full/10.1080/00220620.2021.1931059) *Journal of Educational Administration and History* X(X): xx-xx.
+OR/TBD
+* Patricia Rogers. 2016. "Understanding and Supporting Equity: Implications of Methodological and Procedural Choices in Equity-Focused Evaluation." In *Evaluation for an Equitable Society*, Donaldson and Picciotto (eds.).  
 * We All Count Blog posts (Heather Krause)
 
   - [Better for Who?](https://weallcount.com/2019/03/01/better-for-who/)
   - [How to Make the Shift to Equitable Evaluation](https://weallcount.com/2019/03/08/how-to-make-the-shift-to-equitable-evaluation/)
   - [Framing Research Questions that Reflect Who Is Expected to Change](https://weallcount.com/2020/05/22/framing-research-questions-that-reflect-who-is-expected-to-change/)
 
+
+### 11/15 Equity Assessment Tools
+
+* TBA
 * Urban Institute Posts, Data@Urban
 
   - Jonathan Scwabish and Alice Feng, [Applying Racial Equity Awareness in Data Visualization](https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff)
   - Leah Hendey and Marcus Gaddy, [Taking an Equity Lens to Our Data Practice](https://urban-institute.medium.com/taking-an-equity-lens-to-our-data-practice-8d7645b25ac8)
 
-### 11/17 Wrapping Up
+## 11/17 Back to the start
 
   * Office of Management and Budget. 2021. Study to Identify Methods to Assess Equity: Report to the President. Pgs 12-48.
 
