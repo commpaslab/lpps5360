@@ -115,7 +115,7 @@ Article discussed in class
 
 ### 11/1 Design Signals
 
-* Pamela Herd and Donald P. Moynihan. 2018. *Administrative Burden: Policymaking by Other Means.* Russell Sage Foundation. Chapter 2: The Resurgence of Burdens in Voting.
+* Pamela Herd and Donald P. Moynihan. 2018. *Administrative Burden: Policymaking by Other Means.* Russell Sage Foundation. Chapter 4: The Affordable Care Act.
 * Annie Lowrey. 2021. "The Time Tax." *The Atlantic.* July 27, 2021.
 
 ### 11/3 Brief 3 Round Robin
