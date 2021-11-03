@@ -127,10 +127,8 @@ Article discussed in class
 
 ### 11/10 Evaluation
 
-* Frank Farrow and Sarah Morrison. 2019. [“Placing Equity Concerns at the Center of Knowledge Development.](https://cssp.org/resource/equity-at-the-center/) Center for the Study of Social Policy.
-* Rhyall Barry Gordon, Matt Lumb, Matthew Bunn, and Penny Jane Burke. 2021. ["Evaluation for Equity: Reclaiming Evaluation by Striving Towards Counter-Hegemonic Democratic Practices."](https://www.tandfonline.com/doi/full/10.1080/00220620.2021.1931059) *Journal of Educational Administration and History* X(X): xx-xx.
-OR/TBD
 * Patricia Rogers. 2016. "Understanding and Supporting Equity: Implications of Methodological and Procedural Choices in Equity-Focused Evaluation." In *Evaluation for an Equitable Society*, Donaldson and Picciotto (eds.).  
+* Frank Farrow and Sarah Morrison. 2019. [“Placing Equity Concerns at the Center of Knowledge Development.](https://cssp.org/resource/equity-at-the-center/) Center for the Study of Social Policy.
 * We All Count Blog posts (Heather Krause)
 
   - [Better for Who?](https://weallcount.com/2019/03/01/better-for-who/)
@@ -140,7 +138,7 @@ OR/TBD
 
 ### 11/15 Equity Assessment Tools
 
-* TBA
+* A Collection of Equity Impact Tools (TBA)
 * Urban Institute Posts, Data@Urban
 
   - Jonathan Scwabish and Alice Feng, [Applying Racial Equity Awareness in Data Visualization](https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff)
