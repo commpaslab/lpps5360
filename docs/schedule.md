@@ -138,11 +138,9 @@ Article discussed in class
 
 ### 11/15 Equity Assessment Tools
 
-* A Collection of Equity Impact Tools (TBA)
-* Urban Institute Posts, Data@Urban
+* Julie Nelson and Lisa Brooks. 2016. Racial Equity Toolkit: An Opportunity to Operationalize Equity. Government Alliance on Race & Equity
+* Center for Place‐Based Initiatives at the University of Texas Dell Medical School. 2018. City of Austin Equity Assessment Tool Pilot I. City of Austin Equity Office.
 
-  - Jonathan Scwabish and Alice Feng, [Applying Racial Equity Awareness in Data Visualization](https://urban-institute.medium.com/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff)
-  - Leah Hendey and Marcus Gaddy, [Taking an Equity Lens to Our Data Practice](https://urban-institute.medium.com/taking-an-equity-lens-to-our-data-practice-8d7645b25ac8)
 
 ## 11/17 Back to the start
 
