@@ -62,9 +62,8 @@ Each team will complete a series of four briefs.
 
 4. Equity Recommendations: You've researched, written, and reflected on what it could look like to embed equity as a policy purpose. In this final brief, you'll revisit the three stages represented by the prior policy briefs to consider what you see as the primary barrier to equity for your population and problem of focus within each decision point. That is, what are the political hurdles or collective stumbling blocks to achieving equity that arise:  
 
-
   * (1) in problem identification and representation -- Are there social constructions or understandings or problems or conceptions of responsibility or assumptions about who's behavior must change that are preventing progress towards more equitable outcomes?
   * (2) in policy interventions and analysis -- Does current policy create inequity? Are proposed policies in conflict with other forces or policies that contribute to inequity?
   * (3) in implementation and design -- Are we doing reasonable things, but not well? Are current processes problematic? Is current resourcing simply too low?
 
-After assessing the barriers at each step, imagine you're facing a closing policy window. At which of the above stages would you focus attention and advocacy? If you could overcome the hurdles at only one stage, which would you prioritize as having the biggest long-term impact?
+  After assessing the barriers at each step, imagine you're facing a closing policy window. At which of the above stages would you focus attention and advocacy? If you could overcome the hurdles at only one stage, which would you prioritize as having the biggest long-term impact?
